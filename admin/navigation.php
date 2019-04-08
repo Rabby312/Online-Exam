@@ -1,4 +1,3 @@
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
@@ -49,10 +48,8 @@ li a:hover:not(.active) {
  <div>
     <ul>
   <li><a class="active" href="index.php">Home</a></li>
-  <li><a href="about.php">About</a></li>
-  <li><a href="signup.php">Signup</a></li>
-  <li><a href="index.php">Login</a></li>
-  <li><a href="admin\index.php">Admin</a></li>
+  <li><a href="login.php">Login</a></li>
+  <li><a href="../index.php">User</a></li>
   <!--<li><a href="sublist.php">Subject</a></li>
   <li><a href="Result.php">Result</a></li>
   <li><a href="signout.php">Logout</a></li>-->
