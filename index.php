@@ -2,6 +2,7 @@
 session_start();
 ?>
 <!DOCTYPE html>
+<!--this is index page-->
 <html>
   <head>
     <meta charset="utf-8">
