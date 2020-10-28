@@ -2,6 +2,7 @@
 session_start();
 ?>
 <!DOCTYPE html>
+<!--this is login page for online exam-->
 <html>
   <head>
     <meta charset="utf-8">
