@@ -3,6 +3,7 @@ session_start()
 ?>
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!--this is index page for admin -->
 <html>
 <head>
 <title>Administrative Login - Online Exam</title>
