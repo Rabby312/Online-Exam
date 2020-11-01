@@ -1,4 +1,5 @@
 <?php
+// this is quiz page for user
 session_start();
 include("database.php");
 extract($_POST);
