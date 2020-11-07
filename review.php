@@ -1,4 +1,5 @@
 <?php
+//this is review page for online exam
 session_start();
 global $qn,$submit;
 extract($_POST);
